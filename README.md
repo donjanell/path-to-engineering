@@ -1,7 +1,7 @@
 ## Path to a career in engineering
 > This guide is for anyone who desires to start a career in engineering; especially those with limited education and no prior experience. 
 
-### Level 0 
+### Stage 0 
 > No HS diploma or haven't been in school for a long time
 - Get in the habit of reading regularly - engineers read a lot
   - Topics are unimportant at this stage, but I always recommend self-help and motivational books. Here is a list of my suggestions 
@@ -14,7 +14,7 @@
 - Take the accuplacer (or similar) exam
   - The goal here should be to get placed into transferable courses and avoid developmental courses
  
-### Level 1
+### Stage 1
 > Enroll in community college and start to look for the target university you plan to transfer to.
 - In your first year at community college (two semesters, three including summer) take courses in math, science, intro to computer science and engish (engineers need to communicate very well)
   - If you have the space to do so, take an intro to engineering course as well. 
@@ -32,7 +32,7 @@
 - You want to transfer to an ABET accredidate engineering and/or computer science. (Some of the ivy leagues don't follow this req)
 - By this time, you want to have built small programs and have applied some of the programming skills you have learned
 
-### Level 2
+### Stage 2
 > Transfer to a 4-year university 
 - If you are working, scheduling may be a bit more challenging as the majority of your courses will be during the day
 - **Important** universities change the course curriculum periodically so meet with your academic advisor every semester to make sure the coursework you are taking or planning to take is still applicable to the degree you are pursing. 
@@ -42,7 +42,7 @@
 - Now is a good time to start looking at job descriptions that you are interested in so that you can take electives that are more targeted
   - You will need to get in the habit in getting learning technologies outside of the courses you are taking
 
-### Level 3
+### Stage 3
 > Advanced courses, interships, pivoting or continuing the engineering path
 - There will be a lot of project based work for your courses
   - These can be used as projects to put on your resume
@@ -55,7 +55,7 @@
  - Refine your resume to one focused page that fits the job(s) you are looking for
   - A myriad of new grads will be applying as well, so internships and well written resumes will help you standout 
   
-### Level 4
+### Stage 4
 > Enter the workforce
 - Find a mentor at the company you were hired at, this is vital to your success
   - asks lots of questions
