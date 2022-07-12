@@ -8,6 +8,7 @@
   - Reading books on tech at this stage may seem a bit archaic, but if you can comprehend them, read them!
 - You either need to prepare for the GED, or refresh you education so start to work on your skills in grammar and writing. Here are my suggestions
 - Start to build up your math skills.
+  - Consider learning MLA format for essays prior to school
   - Start at the level you feel comfortable with, don't feel compelled to jump ahead because you are older or want to cut corners. Math is built on the foundation of simplier math. Don't jump to algebra, until you have arithetic down.
   - Community College is a great place to start, so I recommend preparing for the [Accuplacer](https://amzn.to/3NSMASo), COMPASS or similar college prep exam
   - I recommend studying independently until you get at least to college level algebra. If you have taking your time to build up to the college algebra level, your confidence in your ability to become an engineer will rise. 
