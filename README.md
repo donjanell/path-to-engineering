@@ -6,7 +6,7 @@
 - Get in the habit of reading regularly - engineers read a lot
   - Topics are unimportant at this stage, but I always recommend self-help and motivational books. Here is a list of my suggestions 
   - Reading books on tech at this stage may seem a bit archaic, but if you can comprehend them, read them!
-- You either need to prepare for the GED, or refresh you education so start to work on your skills in grammar and writing. Here are my suggestions
+- You either need to prepare for the GED, or refresh you education so start to work on your skills in grammar and writing. Here are some suggestions: [How to win friends...](https://amzn.to/3OYEEjQ), [Atomic Habits](https://amzn.to/3c98RhH), [7 Habits...](https://amzn.to/3atBNk9), [The 48 Laws...](https://amzn.to/3O2i3S4), [Autobio of Malcolm X...](https://amzn.to/3c99fNb) and [The Subtle Art...](https://amzn.to/3IBKmpp)
 - Start to build up your math skills.
   - Consider learning MLA format for essays prior to school
   - Start at the level you feel comfortable with, don't feel compelled to jump ahead because you are older or want to cut corners. Math is built on the foundation of simplier math. Don't jump to algebra, until you have arithetic down.
