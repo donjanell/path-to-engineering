@@ -2,22 +2,23 @@
 > This guide is for anyone who desires to start a career in engineering; especially those with limited education and no prior experience. 
 
 ### Stage 0 
-> No HS diploma or haven't been in school for a long time
+> No HS diploma or haven't been in school for a **long** time
 - Get in the habit of reading regularly - ~~most~~ engineers read a lot
-  - Topics are unimportant at this stage, but I always recommend self-help and motivational books. Here is a list of my suggestions 
+  - Topics are unimportant at this stage, but I recommend self-improvement and motivational books. Here is a list of my suggestions 
   - Reading books on tech at this stage may seem a bit archaic, but if you can comprehend them, read them!
-- You either need to prepare for the GED, or refresh you education so start to work on your skills in grammar and writing. Here are some suggestions: [How to win friends...](https://amzn.to/3OYEEjQ), [Atomic Habits](https://amzn.to/3c98RhH), [7 Habits...](https://amzn.to/3atBNk9), [The 48 Laws...](https://amzn.to/3O2i3S4), [Autobio of Malcolm X...](https://amzn.to/3c99fNb) and [The Subtle Art...](https://amzn.to/3IBKmpp)
+- You either need to prepare for the GED, or refresh your HS education so start to work on your skills in grammar and writing 
+  - Consider learning MLA format for essays or something similar 
+- Here are some suggestions: [How to win friends...](https://amzn.to/3OYEEjQ), [Atomic Habits](https://amzn.to/3c98RhH), [7 Habits...](https://amzn.to/3atBNk9), [The 48 Laws...](https://amzn.to/3O2i3S4), [Autobio of Malcolm X...](https://amzn.to/3c99fNb) and [The Subtle Art...](https://amzn.to/3IBKmpp)
 - Start to build up your math skills.
-  - Consider learning MLA format for essays prior to school
-  - Start at the level you feel comfortable with, don't feel compelled to jump ahead because you are older or want to cut corners. Math is built on the foundation of simplier math. Don't jump to algebra, until you have arithetic down.
+  - **Start at the level you feel comfortable with**, don't feel compelled to jump ahead because you are older or want to cut corners. Math is built on the foundation of simpler math. Don't jump to algebra, until you have arithmetic down.
   - Community College is a great place to start, so I recommend preparing for the [Accuplacer](https://amzn.to/3NSMASo), COMPASS or similar college prep exam
-  - I recommend studying independently until you get at least to college level algebra. If you have taking your time to build up to the college algebra level, your confidence in your ability to become an engineer will rise. 
-- Take the accuplacer (or similar) exam
+  - I recommend studying independently until you get at least to college level algebra. If you have taken your time to build up to the college algebra level, your confidence and probability to become an engineer will increase. 
+- Take the Accuplacer (or similar) exam
   - The goal here should be to get placed into transferable courses and avoid developmental courses
  
 ### Stage 1
 > Enroll in community college and start to look for the target university you plan to transfer to.
-- In your first year at community college (two semesters, three including summer) take courses in math, science, intro to computer science and engish (engineers need to communicate very well)
+- In your first year at community college (two semesters, three including summer) take courses in math, science, intro to computer science and English (engineers need to communicate very well)
   - If you have the space to do so, take an intro to engineering course as well. 
 - Obviously this can be more difficult if you have a job, children or other time contraints so it is important to began disciplined time management skills. 
   - Audit where your time goes
